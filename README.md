@@ -1,6 +1,6 @@
 # Bezier Curve Plugin
 
-The [Bezier Curve Plugin](https://www.unrealengine.com)  for Unreal Engine simplifies the process of generating curves using the Bezier method. This plugin provides intuitive tools for creating and manipulating Bezier curves, enhancing the precision and flexibility of your design workflow. Ideal for developers looking to add smooth, dynamic paths to their projects with minimal effort.
+The <a href="https://www.unrealengine.com/" target="_blank">Bezier Curve Plugin</a>  for Unreal Engine simplifies the process of generating curves using the Bezier method. This plugin provides intuitive tools for creating and manipulating Bezier curves, enhancing the precision and flexibility of your design workflow. Ideal for developers looking to add smooth, dynamic paths to their projects with minimal effort.
 
 ## Table of Content <a name="table-of-content"></a>
 
