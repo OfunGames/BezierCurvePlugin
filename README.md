@@ -1,32 +1,38 @@
-# Nombre del Proyecto
-
-![Logo del Proyecto](https://ruta/a/logo.jpg)
+# Bezier Curve Plugin
 
 Una breve descripción de lo que hace tu proyecto y para qué sirve.
 
-## Tabla de Contenidos
+## Table of Content <a name="table-of-content"></a>
 
-- [Introducción](#introducción)
-- [Comenzando](#comenzando)
-  - [Prerrequisitos](#prerrequisitos)
-  - [Instalación](#instalación)
-- [Uso](#uso)
-  - [Ejemplos](#ejemplos)
-- [Contribuyendo](#contribuyendo)
-- [Licencia](#licencia)
-- [Agradecimientos](#agradecimientos)
+- [Introduction](#introduction)
+- [Instalation](#instalation)
+- [Base Features](#base-features)
+- [Extra Features](#extra-features)
+- [Examples](#examples)
+- [Changelog](#changelog)
+- [Support](#support)
 
-## Introducción
+## Introduction
+[⬆ Back to Top](#table-of-content)
 
-Esta es una introducción a tu proyecto. Aquí puedes describir el propósito y la función principal.
+## Instalation
+[⬆ Back to Top](#table-of-content)
 
-## Comenzando
+## Base Features
 
-Instrucciones para configurar tu proyecto localmente.
+[⬆ Back to Top](#table-of-content)
 
-### Prerrequisitos
+## Extra Features
+[⬆ Back to Top](#table-of-content)
 
-Lo que necesitas para instalar el software y cómo instalarlo.
+## Examples
+[⬆ Back to Top](#table-of-content)
 
-```bash
-$ sudo apt-get install ejemplo
+## Changelog
+[⬆ Back to Top](#table-of-content)
+
+## Support
+[⬆ Back to Top](#table-of-content)
+
+
+
