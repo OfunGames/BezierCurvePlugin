@@ -29,16 +29,47 @@ If you want use plugin as project plugin you can manually copy plugin from “En
 
 ## Base Features
 
+### Bezier Curve
+Description
+#### Parameters
+#### Functions
+
+### Bezier Actor
+Description
+#### Parameters
+#### Functions
+
 [⬆ Back to Top](#table-of-content)
 
 ## Extra Features
 
+### Jump Actor
+(Description)
+(Image)
+#### Parameters
+(Gif)
+
+### Flip Flop Actor
+(Description)
+(Image)
+#### Parameters
+(Gif)
+
+### Progressive Actor
+(Description)
+(Image)
+#### Parameters
+(Gif)
+
 [⬆ Back to Top](#table-of-content)
 
 ## Examples
+Description
 ### Create Curve
+(Gif)
 
 ### Configure Movement
+(Gif)
 
 [⬆ Back to Top](#table-of-content)
 
